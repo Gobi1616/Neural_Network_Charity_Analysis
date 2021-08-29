@@ -12,7 +12,7 @@ For the analysis, we employ the following methods:
 ## Resources
 
 - Data Source: charity_data.csv
-- Software: Python 3.9, Anaconda Navigator, Conda 4.8.4, Jupyter Notebook 6.3.0
+- Software: Python 3.9, Anaconda Navigator, Conda 4.8.4, Jupyter Notebook 6.4.3
 
 ## Results
 
